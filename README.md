@@ -6,6 +6,7 @@
 - [Intro](#intro)
 - [Connection](#connection)
 - [Configuration](#configuration)
+- [References](#references)
 
 
 ## Intro
@@ -227,3 +228,11 @@ Change the create_engine line to the new engine ('postgresql://catalog:[your pas
 Then restart the apache service :
 
 		sudo service apache2 restart
+		
+		
+## References
+
+1.	https://github.com/chuanqin3/udacity-linux-configuration
+2.	DigitalOcean, [How To Deploy a Flask Application on an Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
+3.	Medium, [Create a web application with python + Flask + PostgreSQL and deploy on Heroku](https://medium.com/@dushan14/create-a-web-application-with-python-flask-postgresql-and-deploy-on-heroku-243d548335cc)
+4.	Special thanks to askubuntu.com and ubuntuforums.org for help regarding various miscellaneous tasks.
